@@ -1,0 +1,8 @@
+/media/storage/Desktop/dotnet_apis/Modules/01/structured-logging/SerilogDemo/obj/Debug/net10.0/SerilogDemo.csproj.AssemblyReference.cache
+/media/storage/Desktop/dotnet_apis/Modules/01/structured-logging/SerilogDemo/obj/Debug/net10.0/rpswa.dswa.cache.json
+/media/storage/Desktop/dotnet_apis/Modules/01/structured-logging/SerilogDemo/obj/Debug/net10.0/SerilogDemo.GeneratedMSBuildEditorConfig.editorconfig
+/media/storage/Desktop/dotnet_apis/Modules/01/structured-logging/SerilogDemo/obj/Debug/net10.0/SerilogDemo.AssemblyInfoInputs.cache
+/media/storage/Desktop/dotnet_apis/Modules/01/structured-logging/SerilogDemo/obj/Debug/net10.0/SerilogDemo.AssemblyInfo.cs
+/media/storage/Desktop/dotnet_apis/Modules/01/structured-logging/SerilogDemo/obj/Debug/net10.0/SerilogDemo.csproj.CoreCompileInputs.cache
+/media/storage/Desktop/dotnet_apis/Modules/01/structured-logging/SerilogDemo/obj/Debug/net10.0/SerilogDemo.MvcApplicationPartsAssemblyInfo.cache
+/media/storage/Desktop/dotnet_apis/Modules/01/structured-logging/SerilogDemo/obj/Debug/net10.0/SerilogDemo.sourcelink.json
