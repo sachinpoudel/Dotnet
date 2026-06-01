@@ -1,0 +1,7 @@
+version : "4"
+name : "docker-concept"
+
+#service is a container that runs an application. It is defined in the docker-compose.yml file and can be started, stopped, and managed using Docker Compose commands.
+services:
+  webapi: #serivce name 
+     image : 
